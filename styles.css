@@ -273,6 +273,18 @@ video{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 50px;
 }
+.form{
+    position: relative;
+    text-align: center;
+    
+}
+.form iframe{
+    border: solid 10px white;
+    border-radius: 0px;
+}
+
+
+
 footer, .socials-2{
     position: relative;
     text-align: center;
